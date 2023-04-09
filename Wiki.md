@@ -12,7 +12,7 @@
 
 ## Diagrama de contexto
 
-![](https://github.com/Estebaniado/Proyecto-A-DS-H2/blob/main/imagen_2023-04-09_184906769.png)
+![](https://github.com/Estebaniado/Proyecto-A-DS-H2/blob/main/image.png)
 
 ## Modelo de dominio
 
@@ -29,3 +29,4 @@
 
 -Como supervisor de un funcionario en Alloro Technologies, quiero recibir una notificación cuando se realiza una solicitud de vacaciones de uno de mis subordinados, para poder revisar y aprobar o rechazar la solicitud en el menor tiempo posible y evitar retrasos en el proceso de solicitud de vacaciones.
 -Dado un supervisor de Alloro Technologies, cuando uno de sus subordinados envie una solicitud de vacaciones le notifique a través de un correo, entonces podrá estar al tanto de la solicitud para poder aceptar o rechazar.
+
