@@ -1,14 +1,14 @@
 # Home
 
 ## Objetivos y criterios de éxito del proyecto
-- Implementar una herramienta que ayude a hacer más expedito las revisiones de solicitudes de vacaciones de los funcionarios
-- Mejorar la eficiencia y calidad de trabajo del area de Recursos Humanos
-- Reducir los tiempos de espera de la respuesta de solicitudes de vacaciones
+- Implementar una herramienta que ayude a hacer más expedito las revisiones de solicitudes de vacaciones de los funcionarios.
+- Mejorar la eficiencia y calidad de trabajo del area de Recursos Humanos.
+- Reducir los tiempos de espera de la respuesta de solicitudes de vacaciones.
 
 ## Actores relevantes
-- Funcionarios
-- Supervisores
-- Analistas de Recursos Humanos
+- Funcionarios.
+- Supervisores.
+- Analistas de Recursos Humanos.
 
 ## Diagrama de contexto
 
@@ -32,3 +32,8 @@
 
 -Dado un supervisor de Alloro Technologies, cuando uno de sus subordinados envie una solicitud de vacaciones le notifique a través de un correo, entonces podrá estar al tanto de la solicitud para poder aceptar o rechazar.
 
+##
+
+-Como gerente de recursos humanos, quiero poder ver un registro histórico de las solicitudes de vacaciones aprobadas y rechazadas para un funcionario específico, para poder tener un seguimiento del uso de las vacaciones de los empleados y tomar decisiones informadas sobre futuras solicitudes.
+
+-Dado un gerente de recursos humanos, cuando quiera podra ver el historial de solicitudes de cada funcionario de Alloro Technologies, para tener mejor criterio al momento de aprobar o rechazar una solicitud.
