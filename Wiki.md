@@ -32,7 +32,7 @@
 
 -Dado un supervisor de Alloro Technologies, cuando uno de sus subordinados envie una solicitud de vacaciones le notifique a través de un correo, entonces podrá estar al tanto de la solicitud para poder aceptar o rechazar.
 
-##
+### Historial de solicitudes
 
 -Como gerente de recursos humanos, quiero poder ver un registro histórico de las solicitudes de vacaciones aprobadas y rechazadas para un funcionario específico, para poder tener un seguimiento del uso de las vacaciones de los empleados y tomar decisiones informadas sobre futuras solicitudes.
 
