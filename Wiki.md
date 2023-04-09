@@ -17,3 +17,15 @@
 ## Modelo de dominio
 
 ![](https://github.com/Estebaniado/Proyecto-A-DS-H2/blob/main/Diagrama%20sin%20t%C3%ADtulo.drawio.jpg)
+
+## HU
+
+### Estado de solicitud del funcionario
+
+-Como funcionario de Alloro Technologies, quiero poder ver el estado de la solicitud de vacaciones, para estar informado en todo momento si mi solicitud fue aprobada, rechazada o está en proceso.
+-Como funcionario de Alloro Technologies, quiero poder ver el estado de la solicitud de vacaciones, para estar informado en todo momento si mi solicitud fue aprobada, rechazada o está en proceso.
+
+### Notificación de solicitud al supervisor
+
+-Como supervisor de un funcionario en Alloro Technologies, quiero recibir una notificación cuando se realiza una solicitud de vacaciones de uno de mis subordinados, para poder revisar y aprobar o rechazar la solicitud en el menor tiempo posible y evitar retrasos en el proceso de solicitud de vacaciones.
+-Dado un supervisor de Alloro Technologies, cuando uno de sus subordinados envie una solicitud de vacaciones le notifique a través de un correo, entonces podrá estar al tanto de la solicitud para poder aceptar o rechazar.
