@@ -12,6 +12,8 @@
 
 ## Diagrama de contexto
 
-![](https://github.com/Estebaniado/Proyecto-A-DS-H2/blob/main/imagen_2023-04-09_184906769.png){width='100px'}
+![](https://github.com/Estebaniado/Proyecto-A-DS-H2/blob/main/imagen_2023-04-09_184906769.png)
 
-##
+## Modelo de dominio
+
+![](https://github.com/Estebaniado/Proyecto-A-DS-H2/blob/main/Diagrama%20sin%20t%C3%ADtulo.drawio.jpg)
